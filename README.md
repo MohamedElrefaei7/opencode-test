@@ -6,12 +6,16 @@ A single-page reference for advanced bodyweight skill progressions and their pre
 
 ```bash
 # From project root
-npx serve .
-# Or: python3 -m http.server 8000
+python3 -m http.server 8000
+# Or: npx serve .
 # Or: php -S localhost:8000
 ```
 
-Then open **http://localhost:3000** (or the port shown) in your browser.
+Then open **http://localhost:8000** in your browser.
+
+## Stopping the Server
+
+Stop whichever local server you started by pressing `Ctrl+C` in the terminal running it.
 
 ## Requirements
 
